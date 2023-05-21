@@ -6,7 +6,7 @@ const Header = () => {
             <h1>Türker's Portfolio</h1>
             <a className="social" href="https://github.com/Turka3" target="_blank">Github</a>
             <a className="social" href="https://www.instagram.com/turker.albayrak/" target="_blank">İnstagram</a>
-            <a className="social" href="https://turkeralbayrak.vercel.app">LinkedIn</a>
+            <a className="social" href="https://www.linkedin.com/in/t%C3%BCrker-albayrak-24b63725b/">LinkedIn</a>
 
             <div className="main-container">
                 <h3>Hakkımda</h3>
